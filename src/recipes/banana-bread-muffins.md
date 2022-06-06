@@ -18,4 +18,5 @@ Beat eggs into sugar/butter mixture one at a time until well combined.\
 Add yogurt, bananas, and  vanilla. Mix well.\
 Once all wet ingredients are well combined, add in flour, baking soda, and salt. \
 Fold in add-ins if using.\
-Pour batter into greased loaf pan, bake at 350° for 70-75 minutes or until cake tester or skewer comes out clean.
+Pour batter into greased loaf pan, bake at 350° for 70-75 minutes or until cake tester or skewer comes out clean.\
+If making muffins, pour 2/3c batter into each muffin cup, bake at 350° for 25-30 minutes or until cake tester comes out clean.
