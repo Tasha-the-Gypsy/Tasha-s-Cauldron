@@ -1,6 +1,6 @@
 ---
 title: Small Batch Brownies
-image: /img/recipes/pxl_20220131_035426969.portrait.jpg
+image: /img/recipes/brownies.jpg
 time: 20 Minutes
 servings: 2
 sourceLabel: ""
