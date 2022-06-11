@@ -1,6 +1,6 @@
 ---
 title: Oatmeal Breakfast Bars
-image: /img/recipes/pxl_20220604_214116375.portrait.jpg
+image: /img/recipes/brownies.jpg
 servings: 9
 ingredients:
   - 2c (162g) Rolled Oats
