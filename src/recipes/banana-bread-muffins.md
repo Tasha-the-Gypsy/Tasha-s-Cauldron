@@ -1,6 +1,6 @@
 ---
 title: Banana Bread/Muffins
-image: /img/recipes/pxl_20211219_153823620.jpg
+image: /img/recipes/brownies.jpg
 ingredients:
   - 1/2c Unsalted Butter, Softened
   - 3/4c Dark Brown Sugar
