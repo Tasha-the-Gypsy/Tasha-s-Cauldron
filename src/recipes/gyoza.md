@@ -1,6 +1,6 @@
 ---
 title: Gyoza
-image: /img/recipes/pxl_20220304_022106602.portrait.jpg
+image: /img/recipes/brownies.jpg
 ingredients:
   - 1.5-2 pounds ground meat
   - 1 medium head of napa cabbage, chopped finely
